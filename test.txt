@@ -3,3 +3,4 @@ Branch B version
 =======
 Branch A version
 >>>>>>> branch-A
+I am learning Pull Request
