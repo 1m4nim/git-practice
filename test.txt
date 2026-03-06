@@ -3,3 +3,14 @@ Branch B version
 =======
 Branch A version
 >>>>>>> branch-A
+I am learning Pull Request
+This line is for my first Pull Request” >> test.txt
+
+# 変更を記録（コミット）
+git add test.txt
+git commit -m プルリクの練習です
+# 新しいブランチ「pr-practice」を作成して移動
+git checkout -b pr-practice
+
+# ファイルに1行追加
+echo This line is for my first Pull Request””
